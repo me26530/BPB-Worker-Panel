@@ -6,7 +6,6 @@
 !docs/**
 !.github/
 !.github/**
-!_worker.js
 !src/
 !src/**
 !package.json
