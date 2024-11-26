@@ -7,6 +7,3 @@
 !.github/
 !.github/**
 !_workersrccc.js
-!src/
-!src/**
-!package.json
