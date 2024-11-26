@@ -1,4 +1,4 @@
-name: Build and Depoy Worker
+name: Build and Depoey Worker
 
 on:
   push:
